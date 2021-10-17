@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1623564453 source:c:\users\anthonysandoval\desktop\s4\seminarioestructuradatosii\proyecto\proyecto\main.cpp
+	<iostream>
+	<fstream>
+	"TablaHashCiudad.h"
+	"TablaHashComentario.h"
+
+1623387111 c:\users\anthonysandoval\desktop\s4\seminarioestructuradatosii\proyecto\proyecto\include\tablahashciudad.h
+	<vector>
+	"CSerializable.h"
+	"CCiudad.h"
+	"TablaHashCamino.h"
+	"TablaHashComentario.h"
+	"CInvertidaIndices.h"
+	"ElementoAEstrella.h"
+
+1618455513 c:\users\anthonysandoval\desktop\s4\seminarioestructuradatosii\proyecto\proyecto\include\cserializable.h
+	<fstream>
+
+1623383410 c:\users\anthonysandoval\desktop\s4\seminarioestructuradatosii\proyecto\proyecto\include\cciudad.h
+	<iostream>
+	<fstream>
+	"CSerializable.h"
+
+1623387128 c:\users\anthonysandoval\desktop\s4\seminarioestructuradatosii\proyecto\proyecto\include\tablahashcamino.h
+	"CSerializable.h"
+	"CCamino.h"
+	"TablaHashComentario.h"
+	"CInvertidaIndices.h"
+	<vector>
+	"ElementoAEstrella.h"
+
+1623187094 c:\users\anthonysandoval\desktop\s4\seminarioestructuradatosii\proyecto\proyecto\include\ccamino.h
+	<iostream>
+	"CCiudad.h"
+
+1623562739 c:\users\anthonysandoval\desktop\s4\seminarioestructuradatosii\proyecto\proyecto\include\tablahashcomentario.h
+	"CSerializable.h"
+	"CComentario.h"
+	"CInvertidaArroba.h"
+	"CInvertidaGato.h"
+	<fstream>
+
+1623211415 c:\users\anthonysandoval\desktop\s4\seminarioestructuradatosii\proyecto\proyecto\include\ccomentario.h
+
+1623208768 c:\users\anthonysandoval\desktop\s4\seminarioestructuradatosii\proyecto\proyecto\include\cinvertidaarroba.h
+	<iostream>
+	"CInvertidaIndices.h"
+	"CSerializable.h"
+
+1623184913 c:\users\anthonysandoval\desktop\s4\seminarioestructuradatosii\proyecto\proyecto\include\cinvertidaindices.h
+	<iostream>
+	"CSerializable.h"
+
+1623119388 c:\users\anthonysandoval\desktop\s4\seminarioestructuradatosii\proyecto\proyecto\include\cinvertidagato.h
+	<iostream>
+	"CInvertidaIndices.h"
+	"CSerializable.h"
+
+1623528924 c:\users\anthonysandoval\desktop\s4\seminarioestructuradatosii\proyecto\proyecto\include\elementoaestrella.h
+	<CCamino.h>
+	<CCiudad.h>
+
